@@ -1,11 +1,11 @@
 # Reddit-FullStack
  Front-End
-   > React
-   > Next JS - TypeScript
-   > Tailwind CSS
+   - React
+   - Next JS - TypeScript
+   - Tailwind CSS
    
  BackEnd
-   > Node JS
-   > Express
-   > PostgreSQL
-   > TypeOrm
+   - Node JS
+   - Express
+   - PostgreSQL
+   - TypeOrm
